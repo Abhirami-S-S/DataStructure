@@ -90,7 +90,7 @@ void postorder(struct Node* root) {
     }
 }
 int main() {
-    struct Node* root = NULL;
+    struct Node* root = NULL; 
     int choice, value;
     while (1) {
         printf("\n=== Binary Search Tree Operations ===\n");
